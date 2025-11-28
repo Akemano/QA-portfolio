@@ -25,6 +25,6 @@
 
 ## 📞 Связь
 
-- Telegram: [@akeemano](https://t.me/akeemano)  
-- Email: frogi-as@yandex.ru  
-- Резюме: [HH.ru](https://spb.hh.ru/resume/твой_id)
+- Telegram: [@akimano](https://t.me/akimano)  
+- Email: frogi1as1@gmail.com 
+- Резюме: [HH.ru](https://spb.hh.ru/resume/d44c2838ff0fa088420039ed1f75493577734c)
