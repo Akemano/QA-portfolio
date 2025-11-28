@@ -11,7 +11,7 @@
 - **Инструменты**: Jira, Mantis, Test IT, Postman, Swagger, DevTools, DBeaver, Charles Proxy, Android Studio + Logcat  
 - **Фронтенд**: Figma, Perfect Pixel, ColorZilla, Ninja Fonts, HTML/CSS  
 - **Бэкенд**: SQL (SELECT, JOIN), API (REST, JSON)  
-- **Другое**: Git, Agile basics
+- **Другое**: Agile basics
 
 ---
 
